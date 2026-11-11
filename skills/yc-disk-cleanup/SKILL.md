@@ -1,5 +1,5 @@
 ---
-name: dev-disk-cleanup
+name: yc-disk-cleanup
 description: Reclaim disk space on a developer Mac or Linux machine without losing data — measure what is actually large, classify each item by what deleting it costs, ask per item, then clean only what was named through each tool's own command. Use when the disk is full or nearly full, the user asks to free space or "clean the disk", or asks whether a cache, SDK, simulator, emulator, toolchain or app can be removed.
 ---
 

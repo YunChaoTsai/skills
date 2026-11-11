@@ -1,0 +1,4 @@
+interface:
+  display_name: "YC Disk Cleanup"
+  short_description: "Reclaim developer disk space safely"
+  default_prompt: "Use $yc-disk-cleanup to find what is using disk space and clean only what I approve."
